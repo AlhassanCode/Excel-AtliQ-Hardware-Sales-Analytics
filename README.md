@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a customer performance report([Customer Performance Report.pdf]([https://github.com/AlhassanCode/Excel-AtliQ-Hardware-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)](https://github.com/AlhassanCode/Excel-AtliQ-Hardware-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))_ 
+    **1.** Create a customer performance report([Customer Performance Report (https://github.com/AlhassanCode/Excel-AtliQ-Hardware-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between market performance and sales targets (https://github.com/AlhassanCode/Excel-AtliQ-Hardware-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
